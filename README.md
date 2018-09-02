@@ -1,2 +1,2 @@
-# IPscan
-Internet Protocol Address Scanner
+# IP Scan
+IP Scanning using NMAP
